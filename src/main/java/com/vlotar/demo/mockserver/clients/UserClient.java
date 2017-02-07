@@ -6,7 +6,7 @@ import feign.Param;
 import feign.RequestLine;
 
 /**
- * That's a very simple client for the RESTful API which provides a possibility to authenticate a user in the system.
+ * That's a very simple client of the User service which exposes RESTful API
  *
  * @author vlotar
  * @version 1.0

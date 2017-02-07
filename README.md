@@ -11,4 +11,4 @@ This is useful in the following scenarios:
  1. de-coupling development
  1. isolate single service
  
- Full documentation about MockServer can be found [here](www.mock-server.com).
+ Full documentation about MockServer can be found [here](http://www.mock-server.com).
